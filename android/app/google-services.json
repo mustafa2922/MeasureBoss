@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761530286452",
+    "project_id": "facebook-clone-f2ee2",
+    "storage_bucket": "facebook-clone-f2ee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761530286452:android:23eca5ba7162c70bd02c21",
+        "android_client_info": {
+          "package_name": "com.measureBoss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761530286452-i38hpdnf7rj28nhkmftbo1cv11at8eel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCunxpUsmxpprmGloOy00RZmOAzjtLdJ_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761530286452-i38hpdnf7rj28nhkmftbo1cv11at8eel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
